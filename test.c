@@ -2,5 +2,7 @@
 int main(){
   unsigned int a;
   int b;
-  volitile int a;
+ volitile int a;
+  int ab;
+  int change
 }
